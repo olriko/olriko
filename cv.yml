@@ -1,0 +1,112 @@
+contact:
+    name: Olivier HAMON
+    email: olivier.hmn[at]gmail.com
+    date_of_birth: 08/07/1993
+    job: Fullstack develloper
+    location:
+        address: 36 rue du vertbois
+        postal_code: '75003'
+        city: PARIS
+        country: FR
+    phone: '+33629340628'
+
+experiences:
+    -   company: MakeMeReach
+        position: Fullstack Engineer
+        start_date: 11/10/2018
+        summary: |
+                    TODO
+        website: https://makemereach.com/
+        tags:
+            - vuejs
+            - typescript
+            - monorepo
+            - nodejs
+            - microservices
+            - monorepo
+            - mongodb
+            - aws
+            - docker
+            - rxjs
+            - webpack
+            - jest
+
+    -   company: Washmee
+        position: Fullstack Engineer Internship
+        start_date: 12/2017
+        end_date: 07/2018
+        summary: Washmee is a car wash solution.
+        website: https://makemereach.com/
+        tags:
+            - laravel
+            - mysql
+            - php
+            - vuejs
+
+    -   company: UMC Group
+        position: Fullstack Engineer Internship
+        start_date: 05/2016
+        end_date: 07/2016
+        tags:
+            - nodejs
+            - redis
+            - mysql
+
+profiles:
+    -   network: github
+        url: https://github.com/olriko
+    -   network: linkedin
+        url: https://www.linkedin.com/in/olivier-hamon
+    -   network: twitter
+        url: https://twitter.com/olriko_42
+
+education:
+    -   institution: '42 school'
+        website: https://www.42.fr/en
+        start_date: '2013'
+        end_date: '2018'
+
+skills:
+    -   name: Typescript/Javascript
+        level: 90
+    -   name: VueJs
+        level: 90
+    -   name: Tailwindcss
+        level: 90
+    -   name: Docker
+        level: 50
+    -   name: php
+        level: 50
+    -   name: Firebase
+        level: 90
+
+languages:
+    -   name: french
+        level: Native language
+    -   name: english
+        level: Proficient
+
+projects:
+    -   name: Cactus.poker
+        description: An app to do a poker planning. 
+        url: https://cactus.poker
+        tags:
+            - typescript
+            - firebase
+            - vuejs
+            - stripe
+            - scrum
+            - github ci
+
+    -   name: Flickshot
+        description: A website to follow an esport game news (Counter-Strike).
+        url: https://flickshot.fr
+        tags:
+            - php
+            - laravel
+            - MariaDB
+
+hobbies:
+    -   name: climbing
+    -   name: skiing
+    -   name: traveling
