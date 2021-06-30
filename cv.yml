@@ -11,12 +11,12 @@ contact:
     phone: '+33629340628'
 
 experiences:
-    -   company: MakeMeReach
+    -   company: Paragone.ai (MakeMeReach)
         position: Fullstack Engineer
         start_date: 11/10/2018
         summary: |
-                    TODO
-        website: https://makemereach.com/
+                    Paragone.ai is an online advertising solution that helps brands and advertisers create, manage and optimize their digital advertising campaigns.
+        website: https://paragone.ai/
         tags:
             - vuejs
             - typescript
@@ -36,7 +36,6 @@ experiences:
         start_date: 12/2017
         end_date: 07/2018
         summary: Washmee is a car wash solution.
-        website: https://makemereach.com/
         tags:
             - laravel
             - mysql
